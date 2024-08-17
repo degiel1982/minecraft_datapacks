@@ -8,7 +8,7 @@
 
 ## Villager! Fill my XP
 
-[Download here](https://github.com/degiel1982/minecraft_datapacks/blob/main/Villager_Bucket/AIO_Villager_Bucket%5Bv1.0%5D.zip) (Data Pack)
+[Download here](https://github.com/degiel1982/minecraft_datapacks/blob/main/Villager!_Fill_my_XP/AIO_Villager_Fill_my_XP%5Bv1.0%5D.zip) (Data Pack)
 
 ## String my wool
 
