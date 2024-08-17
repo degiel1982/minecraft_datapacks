@@ -14,7 +14,7 @@
 
 [Download here](https://github.com/degiel1982/minecraft_datapacks/blob/main/String_my_wool/AIO_String_my_wool%5Bv1.0%5D.zip) (Data Pack)
 
-#
+
 
 ### _**1.20.4**_
 
