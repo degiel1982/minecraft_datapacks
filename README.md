@@ -1,6 +1,6 @@
-# Villager Bucket
+# **1.20.4**
 
-### **Minecraft 1.20.4**
+### Villager Bucket
 
 - v1.0 of Villager Bucket is required
 
