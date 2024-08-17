@@ -1,6 +1,6 @@
 # **1.20.4**
 
-### Villager Bucket
+## Villager Bucket
 
 - v1.0 of Villager Bucket is required
 
