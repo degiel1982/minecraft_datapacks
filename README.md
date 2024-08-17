@@ -8,5 +8,5 @@
 
 - v1.0 of AIO Resource Pack is required
 
-[Download here]()
+[Download here](https://github.com/degiel1982/minecraft_datapacks/blob/main/AIO/AIO%5Bv1.0%5D.zip)
 
