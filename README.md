@@ -6,10 +6,14 @@ Make sure you install the required resource pack for some packs.
 
 ***18-8-2024:***
 
-Updated Villager Bucket from v1.0 to v1.0.1.
+Updated Villager Bucket from:
+
+-**v1.0 to v1.0.1**  
+-**v1.1 to v1.1.1**
 
 - Changed the custom model data to 89040001 instead of 1 to prevent problems with other datapacks.
-- The resource pack did not had the correct pack number. So I fixed it. 
+- The resource pack did not had the correct pack number. So I fixed it.
+- I added an image for the resource pack
 
 # Downloads:
 
@@ -37,9 +41,9 @@ Updated Villager Bucket from v1.0 to v1.0.1.
 
 ### Villager Bucket
 
-[Download here](https://github.com/degiel1982/minecraft_datapacks/blob/main/Villager_Bucket/AIO_Villager_Bucket%5Bv1.1%5D.zip) (Data Pack)
+[Download here](https://github.com/degiel1982/minecraft_datapacks/blob/main/Villager_Bucket/AIO_Villager_Bucket%5Bv1.1.1%5D.zip) (Data Pack)
 
-[Download here](https://github.com/degiel1982/minecraft_datapacks/blob/main/AIO/AIO%5Bv1.1%5D.zip) (Resource Pack)
+[Download here](https://github.com/degiel1982/minecraft_datapacks/blob/main/AIO/AIO%5Bv1.1.1%5D.zip) (Resource Pack)
 
 ### Villager! Fill my XP
 
