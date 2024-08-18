@@ -91,4 +91,4 @@ Make sure you install the required resource pack for some packs.
 
 [Download here](https://github.com/degiel1982/minecraft_datapacks/blob/main/Villager_Bucket/AIO_Villager_Bucket%5Bv1.0.1%5D.zip) (Data Pack)
 
-[Download here](https://github.com/degiel1982/minecraft_datapacks/blob/main/AIO/AIO%5Bv1.0.1%5D.zip) (Resource Pack)
+[Download here](https://github.com/degiel1982/minecraft_datapacks/blob/main/AIO/AIO%5Bv1.03%5D.zip) (Resource Pack)
