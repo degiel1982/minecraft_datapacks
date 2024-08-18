@@ -5,6 +5,7 @@ Download here all you datapacks you need. It is especially made for vanilla.
 Make sure you install the required resource pack for some packs.
 
 ***18-8-2024:***
+
 Updated String to wool from:
 1. **v1.2 to v1.2.1
 
