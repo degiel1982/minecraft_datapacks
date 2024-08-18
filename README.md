@@ -10,8 +10,6 @@ Make sure you install the required resource pack for some packs.
 
 1. **v1.2** for Minecraft 1.21 - 1.21.1
 
--Changed to the correct pack number
-
 ## Updated String to wool from:
 1. **v1.2 to v1.2.1**
 
