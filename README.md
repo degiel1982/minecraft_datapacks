@@ -6,6 +6,10 @@ Make sure you install the required resource pack for some packs.
 
 ### ***18-8-2024:***
 
+## Added Diamond Detector:
+
+1. **v1.0** for Minecraft 1.20.3 - 1.20.4
+
 ## Added Easy upgrade template:
 
 1. **v1.2** for Minecraft 1.21 - 1.21.1
