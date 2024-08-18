@@ -4,14 +4,14 @@ Welcome to my github.
 Download here all you datapacks you need. It is especially made for vanilla.
 Make sure you install the required resource pack for some packs.
 
-***18-8-2024:***
+### ***18-8-2024:***
 
-Updated String to wool from:
+## Updated String to wool from:
 1. **v1.2 to v1.2.1
 
 -Changed to the correct pack number
 
-Updated Villager Bucket from:
+## Updated Villager Bucket from:
 
 1. **v1.0 to v1.0.1**  
 2. **v1.1 to v1.1.1**
