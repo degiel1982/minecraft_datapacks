@@ -4,9 +4,20 @@ Welcome to my github.
 Download here all you datapacks you need. It is especially made for vanilla.
 Make sure you install the required resource pack for some packs.
 
-***18-8-2024:***
+### ***18-8-2024:***
 
-Updated Villager Bucket from:
+## Added Easy upgrade template:
+
+1. **v1.2**  [Download here](https://github.com/degiel1982/minecraft_datapacks/blob/main/Villager_Bucket/AIO_Villager_Bucket%5Bv1.2.1%5D.zip) (Data Pack)
+
+-Changed to the correct pack number
+
+## Updated String to wool from:
+1. **v1.2 to v1.2.1**
+
+-Changed to the correct pack number
+
+## Updated Villager Bucket from:
 
 1. **v1.0 to v1.0.1**  
 2. **v1.1 to v1.1.1**
@@ -32,7 +43,7 @@ Updated Villager Bucket from:
 
 ### String my wool
 
-[Download here](https://github.com/degiel1982/minecraft_datapacks/blob/main/String_my_wool/AIO_String_my_wool%5Bv1.2%5D.zip) (Data Pack)
+[Download here](https://github.com/degiel1982/minecraft_datapacks/blob/main/String_my_wool/AIO_String_my_wool%5Bv1.2.1%5D.zip) (Data Pack)
 
 
 
