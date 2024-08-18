@@ -6,6 +6,12 @@ Make sure you install the required resource pack for some packs.
 
 ### ***18-8-2024:***
 
+## Added Easy upgrade template:
+
+1. **v1.2**  [Download here](https://github.com/degiel1982/minecraft_datapacks/blob/main/Villager_Bucket/AIO_Villager_Bucket%5Bv1.2.1%5D.zip) (Data Pack)
+
+-Changed to the correct pack number
+
 ## Updated String to wool from:
 1. **v1.2 to v1.2.1**
 
