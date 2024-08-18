@@ -37,7 +37,7 @@ Make sure you install the required resource pack for some packs.
 
 ### String my wool
 
-[Download here](https://github.com/degiel1982/minecraft_datapacks/blob/main/String_my_wool/AIO_String_my_wool%5Bv1.2%5D.zip) (Data Pack)
+[Download here](https://github.com/degiel1982/minecraft_datapacks/blob/main/String_my_wool/AIO_String_my_wool%5Bv1.2.1%5D.zip) (Data Pack)
 
 
 
