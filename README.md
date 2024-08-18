@@ -8,7 +8,7 @@ Make sure you install the required resource pack for some packs.
 
 ## Added Easy upgrade template:
 
-1. **v1.2**  [Download here](https://github.com/degiel1982/minecraft_datapacks/blob/main/Villager_Bucket/AIO_Villager_Bucket%5Bv1.2.1%5D.zip) (Data Pack)
+1. **v1.2**  [Download here](https://github.com/degiel1982/minecraft_datapacks/blob/main/Easy_upgrade_template/AIO_Easy_upgrade_template%5Bv1.2%5D.zip) (Data Pack)
 
 -Changed to the correct pack number
 
