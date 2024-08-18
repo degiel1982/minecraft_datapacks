@@ -22,9 +22,9 @@ Updated Villager Bucket from:
 
 ### Villager Bucket
 
-[Download here](https://github.com/degiel1982/minecraft_datapacks/blob/main/Villager_Bucket/AIO_Villager_Bucket%5Bv1.2%5D.zip) (Data Pack)
+[Download here](https://github.com/degiel1982/minecraft_datapacks/blob/main/Villager_Bucket/AIO_Villager_Bucket%5Bv1.2.1%5D.zip) (Data Pack)
 
-[Download here](https://github.com/degiel1982/minecraft_datapacks/blob/main/AIO/AIO%5Bv1.2%5D.zip) (Resource Pack)
+[Download here](https://github.com/degiel1982/minecraft_datapacks/blob/main/AIO/AIO%5Bv1.2.1%5D.zip) (Resource Pack)
 
 ### Villager! Fill my XP
 
