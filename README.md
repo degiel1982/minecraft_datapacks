@@ -8,7 +8,7 @@ Make sure you install the required resource pack for some packs.
 
 ## Added Easy upgrade template:
 
-1. **v1.2**  [Download here](https://github.com/degiel1982/minecraft_datapacks/blob/main/Easy_upgrade_template/AIO_Easy_upgrade_template%5Bv1.2%5D.zip) (Data Pack)
+1. **v1.2** for Minecraft 1.21 - 1.21.1
 
 -Changed to the correct pack number
 
@@ -45,8 +45,9 @@ Make sure you install the required resource pack for some packs.
 
 [Download here](https://github.com/degiel1982/minecraft_datapacks/blob/main/String_my_wool/AIO_String_my_wool%5Bv1.2.1%5D.zip) (Data Pack)
 
+### Easy upgrade template
 
-
+[Download here](https://github.com/degiel1982/minecraft_datapacks/blob/main/Easy_upgrade_template/AIO_Easy_upgrade_template%5Bv1.2%5D.zip) (Data Pack)
 
 
 ## _**- 1.20.5 - 1.20.6**_
